@@ -2,7 +2,7 @@
 
 <h1>Hi, I'm Veronica Medina</h1>
 
-<h3>A passionate Software Developer student at the University of Madeira, Portugal</h3>
+<h3>A Software Developer graduated from the University of Madeira, Portugal</h3>
 
 <p>
   <img src="tumblr_moiy1atz0P1qzqnxxo1_500.gif" alt="Michiko Malandro" width="500"/>
